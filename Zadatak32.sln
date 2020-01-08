@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Zadatak32", "Zadatak32.pyproj", "{28E4C2AF-84DF-4BBE-8EDF-942479B6D7DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28E4C2AF-84DF-4BBE-8EDF-942479B6D7DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28E4C2AF-84DF-4BBE-8EDF-942479B6D7DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04020B1F-5441-4005-B4F6-D175202E74C0}
+	EndGlobalSection
+EndGlobal
